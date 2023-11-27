@@ -30,11 +30,11 @@
 <summary>Read More</summary>
 
 #### Papers
-- [Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf) - Distributed Transaction using True Time
-- [Using the Triangle Inequality to Accelerate K-Means](https://cdn.aaai.org/ICML/2003/ICML03-022.pdf) - Elkan's Kmeans
+- [Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf) - Distributed `Strict Serializable Transaction` using True Time
+- [Elkan's Kmeans](https://cdn.aaai.org/ICML/2003/ICML03-022.pdf) - Fast `Kmeans` Algorithm using Triangle Inequality Property
 
 #### Books
-- [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/) - Good for learning more about Spanner 2PC etc.
+- [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/) - Good for learning more about `Spanner` 2PC etc.
 - [Algorithms and Data Structures for Massive Datasets](https://www.amazon.com/Algorithms-Data-Structures-Massive-Datasets/dp/1617298034) - Great for learning about new data structures.
 - [Database Design and Implementation](https://www.amazon.com/dp/3030338355/) -  Great for understanding embedded Java databases like Apache Derby
 
@@ -47,10 +47,10 @@
 <summary>Read More</summary>
   
 #### Production Databases Learned
-- [HaloDB](https://github.com/db-modules/HaloDB): InMemory, KV, Log Based, Bitcask
-- [OHC](https://github.com/db-modules/ohc): Cache, OffHeap, GC
-- [LevelDB](https://github.com/db-modules/leveldb): LSM Tree
+- [HaloDB](https://github.com/db-modules/HaloDB): InMemory, KV, `Log Structure`, Bitcask
+- [OHC](https://github.com/db-modules/ohc): Cache, `OffHeap`, GC
+- [LevelDB](https://github.com/db-modules/leveldb): `LSM` Tree
 - [StormDB](https://github.com/db-modules/stormdb): Similar to HaloDB
-- [Go-YCSB](https://github.com/db-modules/go-ycsb): benchmark, YCSB
+- [Go-YCSB](https://github.com/db-modules/go-ycsb): Benchmark, `YCSB`
 
 </details>
