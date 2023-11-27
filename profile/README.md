@@ -1,6 +1,9 @@
 ## 📎 Tiny Database Modules
 > “You don't have to see the whole staircase, just take the first step.”  - Dr. Martin Luther King, Jr.
 
+<details>
+<summary>Read More</summary>
+  
 #### Individual Database Components
 - [yacc parser](https://github.com/db-modules/tiny-yacc-sql-parser): `YACC`, SQL Parser
 - [tiny-planner](https://github.com/db-modules/tiny-planner): LogicalPlan `Builder`, Logical Plan Rule Based `Optimizer`, `Execution` Engine
@@ -19,7 +22,12 @@
 - [network topology optimizer](https://github.com/db-modules/network_topology_optimizer): `Heuristics`, `Topology`
 - [geo-spark-lite](https://github.com/db-modules/spatial-spark-rdd): `Spark RDD`, `Apache Sedona`, `Spatial Indexing`
 
+</details>
+
 ## 📗 Resources Read
+
+<details>
+<summary>Read More</summary>
 
 #### Papers
 - [Spanner](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf) - Distributed Transaction using True Time
@@ -30,13 +38,19 @@
 - [Algorithms and Data Structures for Massive Datasets](https://www.amazon.com/Algorithms-Data-Structures-Massive-Datasets/dp/1617298034) - Great for learning about new data structures.
 - [Database Design and Implementation](https://www.amazon.com/dp/3030338355/) -  Great for understanding embedded Java databases like Apache Derby
 
+</details>
 
 ## 💻 Real-world Database Systems
 > "It always seems impossible until it's done." - Nelson Mandela
 
+<details>
+<summary>Read More</summary>
+  
 #### Production Databases Learned
 - [HaloDB](https://github.com/db-modules/HaloDB): InMemory, KV, Log Based, Bitcask
 - [OHC](https://github.com/db-modules/ohc): Cache, OffHeap, GC
 - [LevelDB](https://github.com/db-modules/leveldb): LSM Tree
 - [StormDB](https://github.com/db-modules/stormdb): Similar to HaloDB
 - [Go-YCSB](https://github.com/db-modules/go-ycsb): benchmark, YCSB
+
+</details>
