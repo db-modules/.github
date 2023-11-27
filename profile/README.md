@@ -55,3 +55,21 @@
 - [Go-YCSB](https://github.com/db-modules/go-ycsb): Benchmark, `YCSB`
 
 </details>
+
+## ✍ My attempts to teach
+> "If you can't explain it simply, you don't understand it well enough." - Albert Einstein
+
+<details>
+<summary>Read More</summary>
+
+#### Technical works
+- [Copy Ahead Segment Ring](https://utd-ir.tdl.org/server/api/core/bitstreams/bca5d1fb-7b45-403c-b435-4d965d387367/content) - Memtable Design for Distributed LSM tree
+- [Method for Implementing lock-free shared data structure](https://www.youtube.com/watch?v=MK1ZqqW-9gM) - Coordination Technique, Large Objects
+- [TinyDB](https://www.youtube.com/playlist?list=PLVd_ZXv73U8jqQHvW_R5oQF8qo8SHv3Re) - Tiny Database written in Java
+- [Tiny Compiler](https://medium.com/javarevisited/build-a-tiny-compiler-in-java-662f67a1ce85) - Tiny Compiler written in Java
+- [Using spark for spatial data management](https://medium.com/sys-base/spatial-partitioned-rdd-using-kd-tree-in-spark-102e0b53564b) - Spark RDD, KD Tree
+- [Design Patterns](https://medium.com/sde-base/design-pattern-in-java-bafd91a5d24e) - Design Pattern from GoF.
+
+#### Things I ponder
+
+</details>
