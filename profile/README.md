@@ -34,9 +34,9 @@
 - [Elkan's Kmeans](https://cdn.aaai.org/ICML/2003/ICML03-022.pdf) - Fast `Kmeans` Algorithm using Triangle Inequality Property
 
 #### Books
-- [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/) - Good for learning more about `Spanner` 2PC etc.
-- [Algorithms and Data Structures for Massive Datasets](https://www.amazon.com/Algorithms-Data-Structures-Massive-Datasets/dp/1617298034) - Great for learning about new data structures.
-- [Database Design and Implementation](https://www.amazon.com/dp/3030338355/) -  Great for understanding embedded Java databases like Apache Derby
+- [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/) - `Spanner` 2PC etc.
+- [Algorithms and Data Structures for Massive Datasets](https://a.co/d/j4aYee9) - BF, `Count-Min` Sketch, HyperLogLog, Reservoir `Sampling`.
+- [Database Design and Implementation](https://a.co/d/9cJnBev) -  Great for understanding embedded Java databases like Apache `Derby`
 
 </details>
 
