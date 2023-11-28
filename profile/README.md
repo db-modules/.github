@@ -47,12 +47,18 @@
 <details>
 <summary>Read More</summary>
   
-#### Production Databases Learned
+#### Production Key-Value Stores
 - [HaloDB](https://github.com/db-modules/HaloDB): InMemory, KV, `Log Structure`, Bitcask
-- [OHC](https://github.com/db-modules/ohc): Cache, `OffHeap`, GC
+- [OHC](https://github.com/db-modules/ohc): Cache, `OffHeap`, GC, Big Cache
 - [LevelDB](https://github.com/db-modules/leveldb): `LSM` Tree
 - [StormDB](https://github.com/db-modules/stormdb): Similar to HaloDB
-- [Go-YCSB](https://github.com/db-modules/go-ycsb): Benchmark, `YCSB`
+- [Go-YCSB](https://github.com/db-modules/go-ycsb): KV Benchmark, `YCSB`
+
+### Production Distributed Databases (Planning to Learn)
+- [Pinot](https://github.com/apache/pinot)
+- [Presto](https://github.com/prestodb/presto)
+- [Drill](https://github.com/apache/drill)
+- [Druid](https://github.com/apache/druid)
 
 </details>
 
