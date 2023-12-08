@@ -59,6 +59,7 @@
 #### Production Distributed Databases (Planning to Learn)
 - [CockroachDB](https://github.com/cockroachdb/cockroach): well documented, co-exec, has logical/physical optimizer, exec engine
 - [Prometheus](https://github.com/db-modules/prometheus): PromQL, TSDB
+- [Presto](https://github.com/prestodb/presto): RBO, CBO
 
 </details>
 
