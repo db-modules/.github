@@ -49,7 +49,7 @@
 <details>
 <summary>Read More</summary>
   
-#### Production Key-Value Stores
+#### Production Key-Value Stores (Learned)
 - [HaloDB](https://github.com/db-modules/HaloDB): InMemory, KV, `Log Structure`, Bitcask
 - [OHC](https://github.com/db-modules/ohc): Cache, `OffHeap`, GC, Big Cache
 - [LevelDB](https://github.com/db-modules/leveldb): `LSM` Tree
