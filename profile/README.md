@@ -6,6 +6,7 @@
   
 #### Individual Database Components
 - [yacc parser](https://github.com/db-modules/tiny-yacc-sql-parser): `YACC`, SQL Parser
+- [tiny-sql-rewriter](https://github.com/db-modules/tiny-sql-rewriter): SQL rewriter, analyser
 - [tiny-planner](https://github.com/db-modules/tiny-planner): LogicalPlan `Builder`, Logical Plan Rule Based `Optimizer`, `Execution` Engine
 - [tiny-exec-engine](https://github.com/db-modules/colexec-db) : Vectorized `Execution Engine`
 - [serializable snapshot isolation](https://github.com/db-modules/serialized-snapshot-isolation): `Isolation Level`, Transactions
