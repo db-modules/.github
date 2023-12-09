@@ -3,7 +3,7 @@
 
 <details>
 <summary>Read More</summary>
-  
+
 #### Individual Database Components
 - [yacc parser](https://github.com/db-modules/tiny-yacc-sql-parser): `YACC`, SQL Parser
 - [tiny-sql-rewriter](https://github.com/db-modules/tiny-sql-rewriter): SQL rewriter, analyser
@@ -12,6 +12,14 @@
 - [serializable snapshot isolation](https://github.com/db-modules/serialized-snapshot-isolation): `Isolation Level`, Transactions
 - [lsm tree](https://github.com/db-modules/lsm-tree): `Storage Engine`, Memtable, WAL
 - [tiny-java-db](https://github.com/db-modules/tiny-db): `Volcano Model`, Query Optimizer
+
+```markdown
+┌───────┐  ┌───────┐  ┌───────┐  ┌───────┐   ┌───────┐   ┌───────┐
+│       │  │       │  │ RBO   │  │       │   │ Txn   │   │ Col   │
+│Parse  ├─►│Rewrite├─►│  +    ├─►│ Exec  ├──►│  +    |──►| LSM   │
+│       │  │       │  │ CBO   │  │Engine │   │ WAL   │   │       │
+└───────┘  └───────┘  └───────┘  └───────┘   └───────┘   └───────┘
+```
 
 #### Misc Database Components
 - [embedded server](https://github.com/db-modules/tiny-embedded-server): `Sockets`
