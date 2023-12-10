@@ -14,11 +14,11 @@
 - [tiny-java-db](https://github.com/db-modules/tiny-db): `Volcano Model`, Query Optimizer
 
 ```markdown
-┌───────┐  ┌───────┐  ┌───────┐  ┌───────┐   ┌───────┐   ┌───────┐
-│       │  │       │  │ RBO   │  │       │   │ Txn   │   │ Col   │
-│Parse  ├─►│Rewrite├─►│  +    ├─►│ Exec  ├──►│  +    |──►| LSM   │
-│       │  │       │  │ CBO   │  │Engine │   │ WAL   │   │       │
-└───────┘  └───────┘  └───────┘  └───────┘   └───────┘   └───────┘
+┌───────┐  ┌───────┐  ┌───────┐  ┌───────┐  ┌───────┐   ┌───────┐
+│       │  │       │  │ RBO   │  │       │  │ Txn   │   │ Col   │
+│Parse  ├─►│Rewrite├─►│  +    ├─►│ Exec  ├─►│  +    |──►| LSM   │
+│       │  │       │  │ CBO   │  │Engine │  │ WAL   │   │       │
+└───────┘  └───────┘  └───────┘  └───────┘  └───────┘   └───────┘
 ```
 
 #### Misc Database Components
