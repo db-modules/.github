@@ -9,7 +9,7 @@
 - [tiny-sql-rewriter](https://github.com/db-modules/tiny-sql-rewriter): SQL rewriter, analyser
 - [tiny-planner](https://github.com/db-modules/tiny-planner): LogicalPlan `Builder`, Logical Plan Rule Based `Optimizer`, `Execution` Engine
 - [tiny-exec-engine](https://github.com/db-modules/colexec-db) : Vectorized `Execution Engine`
-- [serializable snapshot isolation](https://github.com/db-modules/serialized-snapshot-isolation): `Isolation Level`, Transactions
+- [tiny-txn](https://github.com/db-modules/tiny-txn): `Isolation Level`, Transactions
 - [lsm tree](https://github.com/db-modules/lsm-tree): `Storage Engine`, Memtable, WAL
 - [tiny-java-db](https://github.com/db-modules/tiny-db): `Volcano Model`, Query Optimizer
 
