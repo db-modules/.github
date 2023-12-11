@@ -1,5 +1,5 @@
 ## 📎 Tiny Database Modules
-> “You don't have to see the whole staircase, just take the first step.”  - Dr. Martin Luther King, Jr.
+> “What I cannot create, I do not understand” - Richard Feynman
 
 <details>
 <summary>Read More</summary>
@@ -53,7 +53,7 @@
 </details>
 
 ## 💻 Real-world Database Systems
-> "It always seems impossible until it's done." - Nelson Mandela
+> “You don't have to see the whole staircase, just take the first step.”  - Dr. Martin Luther King, Jr.
 
 <details>
 <summary>Read More</summary>
@@ -87,3 +87,9 @@
 - [Design Patterns](https://medium.com/sde-base/design-pattern-in-java-bafd91a5d24e) - Design Pattern from GoF.
 
 </details>
+
+
+## 🗣️My DB contribution
+> "It always seems impossible until it's done." - Nelson Mandela
+
+- [MaxtrixOrigin](https://github.com/matrixorigin/matrixone/commits?author=arjunsk)
