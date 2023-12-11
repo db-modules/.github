@@ -92,4 +92,10 @@
 ## 🗣️My DB contribution
 > "It always seems impossible until it's done." - Nelson Mandela
 
+<details>
+<summary>Read More</summary>
+  
+#### Database commits
 - [MaxtrixOrigin](https://github.com/matrixorigin/matrixone/commits?author=arjunsk)
+
+</details>
