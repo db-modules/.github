@@ -5,13 +5,13 @@
 <summary>Read More</summary>
 
 #### Individual Database Components
-- [tiny-yacc-parser](https://github.com/db-modules/tiny-yacc-sql-parser): `YACC`, SQL Parser
-- [tiny-sql-rewriter](https://github.com/db-modules/tiny-sql-rewriter): SQL rewriter, analyser
-- [tiny-planner](https://github.com/db-modules/tiny-planner): LogicalPlan `Builder`, Logical Plan Rule Based `Optimizer`, `Execution` Engine
-- [tiny-exec-engine](https://github.com/db-modules/colexec-db) : Vectorized `Execution Engine`
-- [tiny-txn](https://github.com/db-modules/tiny-txn): `Isolation Level`, Transactions
-- [lsm tree](https://github.com/db-modules/lsm-tree): `Storage Engine`, Memtable, WAL
-- [tiny-java-db](https://github.com/db-modules/tiny-db): `Volcano Model`, Query Optimizer
+- [tiny-yacc-parser](https://github.com/sqlminions/tiny-yacc-sql-parser): `YACC`, SQL Parser
+- [tiny-sql-rewriter](https://github.com/sqlminions/tiny-sql-rewriter): SQL rewriter, analyser
+- [tiny-planner](https://github.com/sqlminions/tiny-planner): LogicalPlan `Builder`, Logical Plan Rule Based `Optimizer`, `Execution` Engine
+- [tiny-exec-engine](https://github.com/sqlminions/colexec-db) : Vectorized `Execution Engine`
+- [tiny-txn](https://github.com/sqlminions/tiny-txn): `Isolation Level`, Transactions
+- [lsm tree](https://github.com/sqlminions/lsm-tree): `Storage Engine`, Memtable, WAL
+- [tiny-java-db](https://github.com/sqlminions/tiny-db): `Volcano Model`, Query Optimizer
 
 ```markdown
 ┌───────┐  ┌───────┐  ┌───────┐  ┌───────┐  ┌───────┐   ┌───────┐
@@ -22,14 +22,14 @@
 ```
 
 #### Misc Database Components
-- [embedded server](https://github.com/db-modules/tiny-embedded-server): `Sockets`
-- [workerpool](https://github.com/db-modules/workerpool): `job queue`, `worker pool`
-- [lotsaa](https://github.com/db-modules/lotsaa): `benchmark`, `concurrent access`
+- [embedded server](https://github.com/sqlminions/tiny-embedded-server): `Sockets`
+- [workerpool](https://github.com/sqlminions/workerpool): `job queue`, `worker pool`
+- [lotsaa](https://github.com/sqlminions/lotsaa): `benchmark`, `concurrent access`
 
 #### Simple Distributed Systems
-- [leader election](https://github.com/db-modules/distributed_leader_election): `Layered BFS`, `Flood Max`
-- [network topology optimizer](https://github.com/db-modules/network_topology_optimizer): `Heuristics`, `Topology`
-- [geo-spark-lite](https://github.com/db-modules/spatial-spark-rdd): `Spark RDD`, `Apache Sedona`, `Spatial Indexing`
+- [leader election](https://github.com/sqlminions/distributed_leader_election): `Layered BFS`, `Flood Max`
+- [network topology optimizer](https://github.com/sqlminions/network_topology_optimizer): `Heuristics`, `Topology`
+- [geo-spark-lite](https://github.com/sqlminions/spatial-spark-rdd): `Spark RDD`, `Apache Sedona`, `Spatial Indexing`
 
 </details>
 
@@ -59,15 +59,15 @@
 <summary>Read More</summary>
   
 #### Production Key-Value Stores (Learned)
-- [HaloDB](https://github.com/db-modules/HaloDB): InMemory, KV, `Log Structure`, Bitcask
-- [OHC](https://github.com/db-modules/ohc): Cache, `OffHeap`, GC, Big Cache
-- [LevelDB](https://github.com/db-modules/leveldb): `LSM` Tree
-- [StormDB](https://github.com/db-modules/stormdb): Similar to HaloDB
-- [Go-YCSB](https://github.com/db-modules/go-ycsb): KV Benchmark, `YCSB`
+- [HaloDB](https://github.com/sqlminions/HaloDB): InMemory, KV, `Log Structure`, Bitcask
+- [OHC](https://github.com/sqlminions/ohc): Cache, `OffHeap`, GC, Big Cache
+- [LevelDB](https://github.com/sqlminions/leveldb): `LSM` Tree
+- [StormDB](https://github.com/sqlminions/stormdb): Similar to HaloDB
+- [Go-YCSB](https://github.com/sqlminions/go-ycsb): KV Benchmark, `YCSB`
 
 #### Production Distributed Databases (Planning to Learn)
 - [CockroachDB](https://github.com/cockroachdb/cockroach): well documented, co-exec, has logical/physical optimizer, exec engine
-- [Prometheus](https://github.com/db-modules/prometheus): PromQL, TSDB
+- [Prometheus](https://github.com/sqlminions/prometheus): PromQL, TSDB
 - [Presto](https://github.com/prestodb/presto): RBO, CBO
 
 </details>
