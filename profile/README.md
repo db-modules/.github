@@ -5,13 +5,13 @@
 <summary>Read More</summary>
 
 #### Individual Database Components
-- [tiny-yacc-parser](https://github.com/sqlminions/tiny-yacc-sql-parser): `YACC`, SQL Parser
-- [tiny-sql-rewriter](https://github.com/sqlminions/tiny-sql-rewriter): SQL rewriter, analyser
-- [tiny-planner](https://github.com/sqlminions/tiny-planner): LogicalPlan `Builder`, Logical Plan Rule Based `Optimizer`, `Execution` Engine
-- [tiny-exec-engine](https://github.com/sqlminions/colexec-db) : Vectorized `Execution Engine`
-- [tiny-txn](https://github.com/sqlminions/tiny-txn): `Isolation Level`, Transactions
-- [lsm tree](https://github.com/sqlminions/lsm-tree): `Storage Engine`, Memtable, WAL
-- [tiny-java-db](https://github.com/sqlminions/tiny-db): `Volcano Model`, Query Optimizer
+- [tiny-yacc-parser](https://github.com/dbminions/tiny-yacc-sql-parser): `YACC`, SQL Parser
+- [tiny-sql-rewriter](https://github.com/dbminions/tiny-sql-rewriter): SQL rewriter, analyser
+- [tiny-planner](https://github.com/dbminions/tiny-planner): LogicalPlan `Builder`, Logical Plan Rule Based `Optimizer`, `Execution` Engine
+- [tiny-exec-engine](https://github.com/dbminions/colexec-db) : Vectorized `Execution Engine`
+- [tiny-txn](https://github.com/dbminions/tiny-txn): `Isolation Level`, Transactions
+- [lsm tree](https://github.com/dbminions/lsm-tree): `Storage Engine`, Memtable, WAL
+- [tiny-java-db](https://github.com/dbminions/tiny-db): `Volcano Model`, Query Optimizer
 
 ```markdown
 ┌───────┐  ┌───────┐  ┌───────┐  ┌───────┐  ┌───────┐   ┌───────┐
@@ -22,14 +22,14 @@
 ```
 
 #### Misc Database Components
-- [embedded server](https://github.com/sqlminions/tiny-embedded-server): `Sockets`
-- [workerpool](https://github.com/sqlminions/workerpool): `job queue`, `worker pool`
-- [lotsaa](https://github.com/sqlminions/lotsaa): `benchmark`, `concurrent access`
+- [embedded server](https://github.com/dbminions/tiny-embedded-server): `Sockets`
+- [workerpool](https://github.com/dbminions/workerpool): `job queue`, `worker pool`
+- [lotsaa](https://github.com/dbminions/lotsaa): `benchmark`, `concurrent access`
 
 #### Simple Distributed Systems
-- [leader election](https://github.com/sqlminions/distributed_leader_election): `Layered BFS`, `Flood Max`
-- [network topology optimizer](https://github.com/sqlminions/network_topology_optimizer): `Heuristics`, `Topology`
-- [geo-spark-lite](https://github.com/sqlminions/spatial-spark-rdd): `Spark RDD`, `Apache Sedona`, `Spatial Indexing`
+- [leader election](https://github.com/dbminions/distributed_leader_election): `Layered BFS`, `Flood Max`
+- [network topology optimizer](https://github.com/dbminions/network_topology_optimizer): `Heuristics`, `Topology`
+- [geo-spark-lite](https://github.com/dbminions/spatial-spark-rdd): `Spark RDD`, `Apache Sedona`, `Spatial Indexing`
 
 </details>
 
