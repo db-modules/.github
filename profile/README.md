@@ -59,15 +59,15 @@
 <summary>Read More</summary>
   
 #### Production Key-Value Stores (Learned)
-- [HaloDB](https://github.com/sqlminions/HaloDB): InMemory, KV, `Log Structure`, Bitcask
-- [OHC](https://github.com/sqlminions/ohc): Cache, `OffHeap`, GC, Big Cache
-- [LevelDB](https://github.com/sqlminions/leveldb): `LSM` Tree
-- [StormDB](https://github.com/sqlminions/stormdb): Similar to HaloDB
-- [Go-YCSB](https://github.com/sqlminions/go-ycsb): KV Benchmark, `YCSB`
+- [HaloDB](https://github.com/dbminions/HaloDB): InMemory, KV, `Log Structure`, Bitcask
+- [OHC](https://github.com/dbminions/ohc): Cache, `OffHeap`, GC, Big Cache
+- [LevelDB](https://github.com/dbminions/leveldb): `LSM` Tree
+- [StormDB](https://github.com/dbminions/stormdb): Similar to HaloDB
+- [Go-YCSB](https://github.com/dbminions/go-ycsb): KV Benchmark, `YCSB`
 
 #### Production Distributed Databases (Planning to Learn)
 - [CockroachDB](https://github.com/cockroachdb/cockroach): well documented, co-exec, has logical/physical optimizer, exec engine
-- [Prometheus](https://github.com/sqlminions/prometheus): PromQL, TSDB
+- [Prometheus](https://github.com/dbminions/prometheus): PromQL, TSDB
 - [Presto](https://github.com/prestodb/presto): RBO, CBO
 
 </details>
