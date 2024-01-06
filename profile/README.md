@@ -9,7 +9,7 @@
 - [tiny-sql-rewriter](https://github.com/dbminions/tiny-sql-rewriter): SQL rewriter, analyser
 - [tiny-planner](https://github.com/dbminions/tiny-planner): LogicalPlan `Builder`, Logical Plan Rule Based `Optimizer`, `Execution` Engine
 - [tiny-exec-engine](https://github.com/dbminions/colexec-db) : Vectorized `Execution Engine`
-- [tiny-ssi-txn](https://github.com/dbminions/tiny-txn): `Isolation Level`, Transactions
+- [tiny-ssi-txn](https://github.com/dbminions/tiny-txn): `Snapshot Isolation Level`, `Serializable` Transactions
 - [lsm tree](https://github.com/dbminions/lsm-tree): `Storage Engine`, Memtable, WAL
 - [tiny-java-db](https://github.com/dbminions/tiny-db): `Volcano Model`, Query Optimizer
 
