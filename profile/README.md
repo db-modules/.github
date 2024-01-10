@@ -69,6 +69,7 @@
 - [Go-YCSB](https://github.com/dbminions/go-ycsb): KV Benchmark, `YCSB`
 
 #### Production Distributed Databases (Planning to Learn)
+- [datafusion](https://github.com/apache/arrow-datafusion): tiny neat query engine
 - [CockroachDB](https://github.com/cockroachdb/cockroach): well documented, co-exec, has logical/physical optimizer, exec engine
 - [Prometheus](https://github.com/dbminions/prometheus): PromQL, TSDB
 - [Presto](https://github.com/prestodb/presto): RBO, CBO
