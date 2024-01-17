@@ -8,7 +8,7 @@
 - [tiny-yacc-parser](https://github.com/dbminions/tiny-yacc-sql-parser): `YACC`, SQL Parser
 - [tiny-sql-rewriter](https://github.com/dbminions/tiny-sql-rewriter): SQL rewriter, analyser
 - [tiny-planner](https://github.com/dbminions/tiny-planner): LogicalPlan `Builder`, Logical Plan Rule Based `Optimizer`, `Execution` Engine
-- - [tiny-dataframe](https://github.com/dbminions/tiny_dataframe): `dataframe`, `push-based`, parquet, arrow
+- [tiny-dataframe](https://github.com/dbminions/tiny_dataframe): `dataframe`, `push-based`, parquet, arrow
 - [tiny-exec-engine](https://github.com/dbminions/colexec-db) : Vectorized `Execution Engine`
 - [tiny-ssi-txn](https://github.com/dbminions/tiny-txn): `Snapshot Isolation Level`, `Serializable` Transactions
 - [lsm tree](https://github.com/dbminions/lsm-tree): `Storage Engine`, Memtable, WAL
