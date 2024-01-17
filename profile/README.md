@@ -5,12 +5,12 @@
 <summary>Read More</summary>
 
 #### Individual Database Components
-- [tiny-yacc-parser](https://github.com/dbminions/tiny-yacc-sql-parser): `YACC`, SQL Parser
-- [tiny-sql-rewriter](https://github.com/dbminions/tiny-sql-rewriter): SQL rewriter, analyser
-- [tiny-planner](https://github.com/dbminions/tiny-planner): LogicalPlan `Builder`, Logical Plan Rule Based `Optimizer`, `Execution` Engine
-- [tiny-dataframe](https://github.com/dbminions/tiny_dataframe): `dataframe`, `push-based`, parquet, arrow
+- [tiny-yacc-parser](https://github.com/dbminions/tiny-yacc-sql-parser): YACC, SQL `Parser`
+- [tiny-sql-rewriter](https://github.com/dbminions/tiny-sql-rewriter): SQL `rewriter`, analyser
+- [tiny-rule-based-optimizer](https://github.com/dbminions/tiny-planner): Logical Plan `Rule Based Optimizer`, LogicalPlan Builder,  Execution Engine
+- [tiny-dataframe](https://github.com/dbminions/tiny_dataframe): `Push-based Query Engine`, visitor, builder, parquet, arrow, logical/physical plan
 - [tiny-exec-engine](https://github.com/dbminions/colexec-db) : Vectorized `Execution Engine`
-- [tiny-ssi-txn](https://github.com/dbminions/tiny-txn): `Snapshot Isolation Level`, `Serializable` Transactions
+- [tiny-ssi-txn](https://github.com/dbminions/tiny-txn): Snapshot Isolation Level, Serializable `Transactions`
 - [lsm tree](https://github.com/dbminions/lsm-tree): `Storage Engine`, Memtable, WAL
 - [tiny-java-db](https://github.com/dbminions/tiny-db): `Volcano Model`, Query Optimizer
 
