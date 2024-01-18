@@ -51,6 +51,7 @@
 #### Books on DB [Read]
 - [Database Design and Implementation](https://a.co/d/9cJnBev) -  Great for understanding embedded Java databases like Apache `Derby`
 - [How Query Engine Works: An Introductory Guide](https://a.co/d/0tnFBHx) - Great for understanding Query Engine like Arrow `Datafusion`
+- [Querify Labs Blog](https://www.querifylabs.com/blog) - Good blog on optimizers.
 
 #### Misc Books [Read]
 - [Algorithms and Data Structures for Massive Datasets](https://a.co/d/j4aYee9) - BF, `Count-Min` Sketch, HyperLogLog, Reservoir `Sampling`.
