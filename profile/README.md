@@ -1,4 +1,4 @@
-## 🥭 Fundamental Modules
+## 🌿 Fundamental Modules
 > “What I cannot create, I do not understand” - Richard Feynman
 
 <details>
@@ -131,7 +131,7 @@
 </details>
 
 
-## 🗣️ My DB contribution
+## 🥭 My DB contribution
 > "It always seems impossible until it's done." - Nelson Mandela
 
 <details>
