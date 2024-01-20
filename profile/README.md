@@ -144,7 +144,7 @@
   
 #### Database commits
 - [MaxtrixOrigin](https://github.com/matrixorigin/matrixone/commits?author=arjunsk)
-- [Vector Index Paper]
-- [Memtable Paper]
+- [Vector Index Paper](): Pending
+- [Memtable Paper](): Pending
 
 </details>
