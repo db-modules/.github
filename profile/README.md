@@ -75,7 +75,7 @@
 - [Prometheus](https://github.com/dbminions/prometheus): PromQL, TSDB
 - [Presto](https://github.com/prestodb/presto): RBO, CBO
 
-#### Misc
+#### Misc [Read]
 - [Go-YCSB](https://github.com/dbminions/go-ycsb): KV Benchmark, `YCSB`
 
 </details>
@@ -86,25 +86,22 @@
 <details>
 <summary>Read More</summary>
 
-#### Papers [Read]
-- [Google Spanner Paper](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf) - Distributed `Strict Serializable Transaction` using True Time
-- [Elkan's Kmeans](https://cdn.aaai.org/ICML/2003/ICML03-022.pdf) - Fast `Kmeans` Algorithm using Triangle Inequality Property
-- [A method for implementing Lock-Free shared Data Structures](https://dl.acm.org/doi/pdf/10.1145/165231.165265) - Coordination Technique, Caching Algo
+#### Books [Reading]
+- [100 Go Mistakes and How to Avoid Them](https://a.co/d/7EAXgLq) - Great for understanding common mistakes in `go`.
+- [Querify Labs Blog](https://www.querifylabs.com/blog) - Good blog on optimizers.
+- [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/) - `Spanner` 2PC etc.
 
 #### Books on DB [Read]
 - [Database Design and Implementation](https://a.co/d/9cJnBev) -  Great for understanding embedded Java databases like Apache `Derby`
 - [How Query Engine Works: An Introductory Guide](https://a.co/d/0tnFBHx) - Great for understanding Query Engine like Arrow `Datafusion`
-- [Querify Labs Blog](https://www.querifylabs.com/blog) - Good blog on optimizers.
 
 #### Misc Books [Read]
 - [Algorithms and Data Structures for Massive Datasets](https://a.co/d/j4aYee9) - BF, `Count-Min` Sketch, HyperLogLog, Reservoir `Sampling`.
 
-#### Books [Reading]
-- [100 Go Mistakes and How to Avoid Them](https://a.co/d/7EAXgLq) - Great for understanding common mistakes in `go`.
-
-#### Books [Planned]
-- [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/) - `Spanner` 2PC etc.
-
+#### Papers [Read]
+- [Google Spanner Paper](https://static.googleusercontent.com/media/research.google.com/en//archive/spanner-osdi2012.pdf) - Distributed `Strict Serializable Transaction` using True Time
+- [A method for implementing Lock-Free shared Data Structures](https://dl.acm.org/doi/pdf/10.1145/165231.165265) - Coordination Technique, Caching Algo
+- [Elkan's Kmeans](https://cdn.aaai.org/ICML/2003/ICML03-022.pdf) - Fast `Kmeans` Algorithm using Triangle Inequality Property
 
 </details>
 
@@ -114,10 +111,13 @@
 <details>
 <summary>Read More</summary>
 
-#### Technical works
+#### Database
 - [Copy Ahead Segment Ring](https://utd-ir.tdl.org/server/api/core/bitstreams/bca5d1fb-7b45-403c-b435-4d965d387367/content) - New Memtable Design, Evolution of Database Systems
-- [Method for Implementing lock-free shared data structure](https://www.youtube.com/watch?v=MK1ZqqW-9gM) - Coordination Technique, Large Objects
 - [TinyDB](https://www.youtube.com/playlist?list=PLVd_ZXv73U8jqQHvW_R5oQF8qo8SHv3Re) - Tiny Database written in Java
+
+
+#### Technical works
+- [Method for Implementing lock-free shared data structure](https://www.youtube.com/watch?v=MK1ZqqW-9gM) - Coordination Technique, Large Objects
 - [Tiny Compiler](https://medium.com/javarevisited/build-a-tiny-compiler-in-java-662f67a1ce85) - Tiny Compiler written in Java
 - [Using spark for spatial data management](https://medium.com/sys-base/spatial-partitioned-rdd-using-kd-tree-in-spark-102e0b53564b) - Spark RDD, KD Tree
 - [Design Patterns](https://medium.com/sde-base/design-pattern-in-java-bafd91a5d24e) - Design Pattern from GoF.
