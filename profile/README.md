@@ -8,8 +8,8 @@
 - [tiny-yacc-parser](https://github.com/dbminions/tiny-yacc-sql-parser): YACC, SQL `Parser`
 - [tiny-sql-rewriter](https://github.com/dbminions/tiny-sql-rewriter): SQL `rewriter`, analyser
 - [tiny-binder](https://github.com/dbminions/tiny_binder): `Binder`, Catalog, Type Coercion, Function Overloading
-- [tiny-dataframe](https://github.com/dbminions/tiny_dataframe): `Push-based Execution Model`, `Execution Engine`,`Runtime`, Visitor, Parquet, Arrow
-- [tiny-rule-based-optimizer](https://github.com/dbminions/tiny-planner): Logical Plan `Rule Based Optimizer`, LogicalPlan Builder,  Execution Engine
+- [tiny-dataframe](https://github.com/dbminions/tiny_dataframe): `Push-based Execution Model`, `Rule Based Optimizer`, `Execution Engine`, Runtime, Visitor, Parquet, Arrow
+- [tiny-rule-based-optimizer](https://github.com/dbminions/tiny-planner): Parser, `Binder`, Catalog, Rule Based Optimizer, `Execution Engine`
 - [tiny-ssi-txn](https://github.com/dbminions/tiny-txn): Snapshot Isolation Level, Serializable `Transactions`
 - [lsm tree](https://github.com/dbminions/lsm-tree): `Storage Engine`, Memtable, WAL
 - [tiny-java-db](https://github.com/dbminions/tiny-db): `Volcano Model`, Query Optimizer
@@ -49,12 +49,34 @@
 <details>
 <summary>Read More</summary>
 
-#### Database
+#### Database Shrunk
 - [matrixorigin-lite](https://github.com/dbminions/colexec-db): Vectorized `Execution Engine`, Push based execution model
 
+#### Small Database [Read]
+- [HaloDB](https://github.com/dbminions/HaloDB): InMemory, KV, `Log Structure`, Bitcask
+- [OHC](https://github.com/dbminions/ohc): Cache, `OffHeap`, GC, Big Cache
+- [LevelDB](https://github.com/dbminions/leveldb): Embedded `LSM` Tree
+- [StormDB](https://github.com/dbminions/stormdb): Embedded DB similar to HaloDB
+
+#### Misc Shrunk
+- [geo-spark-lite](https://github.com/dbminions/spatial-spark-rdd): `Spark RDD`, `Apache Sedona`, `Spatial Indexing`
+
+</details>
+
+## 💻 Real-world Database Systems
+> “You don't have to see the whole staircase, just take the first step.”  - Dr. Martin Luther King, Jr.
+
+<details>
+<summary>Read More</summary>
+  
+#### Production Distributed Databases (Planning to Learn)
+- [datafusion](https://github.com/apache/arrow-datafusion): tiny neat query engine
+- [CockroachDB](https://github.com/cockroachdb/cockroach): well documented, co-exec, has logical/physical optimizer, exec engine
+- [Prometheus](https://github.com/dbminions/prometheus): PromQL, TSDB
+- [Presto](https://github.com/prestodb/presto): RBO, CBO
 
 #### Misc
-- [geo-spark-lite](https://github.com/dbminions/spatial-spark-rdd): `Spark RDD`, `Apache Sedona`, `Spatial Indexing`
+- [Go-YCSB](https://github.com/dbminions/go-ycsb): KV Benchmark, `YCSB`
 
 </details>
 
@@ -83,27 +105,6 @@
 #### Books [Planned]
 - [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/) - `Spanner` 2PC etc.
 
-
-</details>
-
-## 💻 Real-world Database Systems
-> “You don't have to see the whole staircase, just take the first step.”  - Dr. Martin Luther King, Jr.
-
-<details>
-<summary>Read More</summary>
-  
-#### Production Key-Value Stores (Learned)
-- [HaloDB](https://github.com/dbminions/HaloDB): InMemory, KV, `Log Structure`, Bitcask
-- [OHC](https://github.com/dbminions/ohc): Cache, `OffHeap`, GC, Big Cache
-- [LevelDB](https://github.com/dbminions/leveldb): `LSM` Tree
-- [StormDB](https://github.com/dbminions/stormdb): Similar to HaloDB
-- [Go-YCSB](https://github.com/dbminions/go-ycsb): KV Benchmark, `YCSB`
-
-#### Production Distributed Databases (Planning to Learn)
-- [datafusion](https://github.com/apache/arrow-datafusion): tiny neat query engine
-- [CockroachDB](https://github.com/cockroachdb/cockroach): well documented, co-exec, has logical/physical optimizer, exec engine
-- [Prometheus](https://github.com/dbminions/prometheus): PromQL, TSDB
-- [Presto](https://github.com/prestodb/presto): RBO, CBO
 
 </details>
 
