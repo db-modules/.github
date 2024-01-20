@@ -1,4 +1,4 @@
-## 🌾 Fundamental Modules
+## 🌾 Building Blocks
 > “What I cannot create, I do not understand” - Richard Feynman
 
 <details>
@@ -42,7 +42,7 @@
 
 </details>
 
-## 🌱 Lite Database
+## 🌱 Database Plant
 
 > “What I cannot create, I do not understand” - Richard Feynman
 
@@ -69,7 +69,7 @@
 
 </details>
 
-## 🌳 Mature Database
+## 🌳 Database Tree
 > “You don't have to see the whole staircase, just take the first step.”  - Dr. Martin Luther King, Jr.
 
 <details>
@@ -86,7 +86,7 @@
 
 </details>
 
-## 🥕 Study Resources
+## 🥕 Roots
 > "It is not that I'm so smart. But I stay with the questions much longer." - Albert Einstein
 
 <details>
@@ -111,7 +111,7 @@
 
 </details>
 
-## 👨‍🌾 My attempts to teach
+## 👨‍🌾 Me Planting
 > "If you can't explain it simply, you don't understand it well enough." - Albert Einstein
 
 <details>
@@ -131,7 +131,7 @@
 </details>
 
 
-## 🥭 My DB contribution
+## 🥭 The Fruit
 > "It always seems impossible until it's done." - Nelson Mandela
 
 <details>
@@ -139,5 +139,7 @@
   
 #### Database commits
 - [MaxtrixOrigin](https://github.com/matrixorigin/matrixone/commits?author=arjunsk)
+- [Vector Index Paper]
+- [Memtable Paper]
 
 </details>
