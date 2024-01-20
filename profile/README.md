@@ -4,7 +4,7 @@
 <details>
 <summary>Read More</summary>
 
-#### Individual Database Components
+#### Core Database Components
 - [tiny-yacc-parser](https://github.com/dbminions/tiny-yacc-sql-parser): YACC, SQL `Parser`
 - [tiny-sql-rewriter](https://github.com/dbminions/tiny-sql-rewriter): SQL `rewriter`, analyser
 - [tiny-binder](https://github.com/dbminions/tiny_binder): `Binder`, Catalog, Type Coercion, Function Overloading
@@ -36,7 +36,7 @@
 - [tiny-compiler](https://github.com/dbminions/tiny-compiler): Covers examples for `AST`, ANTLR, and `Visitor` Pattern
 - [tiny-dependency-injection](https://github.com/dbminions/tiny-di-framework): `Dependency Injection` Framework
 
-#### Simple Distributed Systems
+#### Misc Distributed Systems
 - [leader election](https://github.com/dbminions/distributed_leader_election): `Layered BFS`, `Flood Max`
 - [network topology optimizer](https://github.com/dbminions/network_topology_optimizer): `Heuristics`, `Topology`
 
