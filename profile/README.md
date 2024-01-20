@@ -1,4 +1,4 @@
-## 📎 Fundamental Modules
+## 🥭 Fundamental Modules
 > “What I cannot create, I do not understand” - Richard Feynman
 
 <details>
@@ -63,7 +63,7 @@
 
 </details>
 
-## 💻 Real-world Database Systems
+## 🌴 Real-world Database Systems
 > “You don't have to see the whole staircase, just take the first step.”  - Dr. Martin Luther King, Jr.
 
 <details>
