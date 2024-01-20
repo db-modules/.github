@@ -10,7 +10,7 @@
 - [tiny-binder](https://github.com/dbminions/tiny_binder): `Binder`, Catalog, Type Coercion, Function Overloading
 - [tiny-rule-based-optimizer](https://github.com/dbminions/tiny-planner): Logical Plan `Rule Based Optimizer`, LogicalPlan Builder,  Execution Engine
 - [tiny-dataframe](https://github.com/dbminions/tiny_dataframe): `Push-based Execution Model`, visitor, builder, parquet, arrow, logical/physical plan
-- [tiny-exec-engine](https://github.com/dbminions/colexec-db) : Vectorized `Execution Engine`
+- [tiny-exec-engine](https://github.com/dbminions/colexec-db): Vectorized `Execution Engine`, Push based execution model
 - [tiny-ssi-txn](https://github.com/dbminions/tiny-txn): Snapshot Isolation Level, Serializable `Transactions`
 - [lsm tree](https://github.com/dbminions/lsm-tree): `Storage Engine`, Memtable, WAL
 - [tiny-java-db](https://github.com/dbminions/tiny-db): `Volcano Model`, Query Optimizer
