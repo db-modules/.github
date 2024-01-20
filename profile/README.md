@@ -1,4 +1,4 @@
-## 🌿 Fundamental Modules
+## 🌾 Fundamental Modules
 > “What I cannot create, I do not understand” - Richard Feynman
 
 <details>
@@ -69,7 +69,7 @@
 
 </details>
 
-## 🌴 Mature Database
+## 🌳 Mature Database
 > “You don't have to see the whole staircase, just take the first step.”  - Dr. Martin Luther King, Jr.
 
 <details>
@@ -86,7 +86,7 @@
 
 </details>
 
-## 📗 Study Resources
+## 🥕 Study Resources
 > "It is not that I'm so smart. But I stay with the questions much longer." - Albert Einstein
 
 <details>
@@ -111,7 +111,7 @@
 
 </details>
 
-## ✍ My attempts to teach
+## 👨‍🌾 My attempts to teach
 > "If you can't explain it simply, you don't understand it well enough." - Albert Einstein
 
 <details>
