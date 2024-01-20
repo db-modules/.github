@@ -42,7 +42,7 @@
 
 </details>
 
-## ⥂ Lite Systems
+## 🌱 Lite Systems
 
 > “What I cannot create, I do not understand” - Richard Feynman
 
@@ -69,7 +69,7 @@
 <details>
 <summary>Read More</summary>
   
-#### Production Distributed Databases (Planning to Learn)
+#### Production Databases [TODO]
 - [datafusion](https://github.com/apache/arrow-datafusion): tiny neat query engine
 - [CockroachDB](https://github.com/cockroachdb/cockroach): well documented, co-exec, has logical/physical optimizer, exec engine
 - [Prometheus](https://github.com/dbminions/prometheus): PromQL, TSDB
@@ -86,7 +86,7 @@
 <details>
 <summary>Read More</summary>
 
-#### Books [Reading]
+#### Books in Pipeline [Reading]
 - [100 Go Mistakes and How to Avoid Them](https://a.co/d/7EAXgLq) - Great for understanding common mistakes in `go`.
 - [Querify Labs Blog](https://www.querifylabs.com/blog) - Good blog on optimizers.
 - [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/) - `Spanner` 2PC etc.
