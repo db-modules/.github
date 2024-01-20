@@ -12,7 +12,7 @@
 - [tiny-rule-based-optimizer](https://github.com/dbminions/tiny-planner): Parser, `Binder`, Catalog, Rule Based Optimizer, `Execution Engine`, `Push Based Execution`
 - [tiny-ssi-txn](https://github.com/dbminions/tiny-txn): Snapshot Isolation Level, Serializable `Transactions`
 - [lsm tree](https://github.com/dbminions/lsm-tree): `Storage Engine`, Memtable, WAL
-- [tiny-java-db](https://github.com/dbminions/tiny-db): `Volcano Model`, Query Optimizer, `Binder`
+- [tiny-java-db](https://github.com/dbminions/tiny-db): `Volcano Model`, Query Optimizer, `Binder`, `Secondary Index`
 
 ```markdown
 ┌───────┐  ┌───────┐  ┌───────┐
