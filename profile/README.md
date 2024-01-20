@@ -1,4 +1,4 @@
-## 📎 Core Modules
+## 📎 Fundamental Modules
 > “What I cannot create, I do not understand” - Richard Feynman
 
 <details>
@@ -8,9 +8,8 @@
 - [tiny-yacc-parser](https://github.com/dbminions/tiny-yacc-sql-parser): YACC, SQL `Parser`
 - [tiny-sql-rewriter](https://github.com/dbminions/tiny-sql-rewriter): SQL `rewriter`, analyser
 - [tiny-binder](https://github.com/dbminions/tiny_binder): `Binder`, Catalog, Type Coercion, Function Overloading
-- [tiny-dataframe](https://github.com/dbminions/tiny_dataframe): `Push-based Execution Model`, visitor, builder, parquet, arrow, logical/physical plan
+- [tiny-dataframe](https://github.com/dbminions/tiny_dataframe): `Push-based Execution Model`, `Execution Engine`,`Runtime`, Visitor, Parquet, Arrow
 - [tiny-rule-based-optimizer](https://github.com/dbminions/tiny-planner): Logical Plan `Rule Based Optimizer`, LogicalPlan Builder,  Execution Engine
-- [tiny-exec-engine](https://github.com/dbminions/colexec-db): Vectorized `Execution Engine`, Push based execution model
 - [tiny-ssi-txn](https://github.com/dbminions/tiny-txn): Snapshot Isolation Level, Serializable `Transactions`
 - [lsm tree](https://github.com/dbminions/lsm-tree): `Storage Engine`, Memtable, WAL
 - [tiny-java-db](https://github.com/dbminions/tiny-db): `Volcano Model`, Query Optimizer
@@ -40,6 +39,21 @@
 #### Simple Distributed Systems
 - [leader election](https://github.com/dbminions/distributed_leader_election): `Layered BFS`, `Flood Max`
 - [network topology optimizer](https://github.com/dbminions/network_topology_optimizer): `Heuristics`, `Topology`
+
+</details>
+
+## ⥂ Lite Systems
+
+> “What I cannot create, I do not understand” - Richard Feynman
+
+<details>
+<summary>Read More</summary>
+
+#### Database
+- [matrixorigin-lite](https://github.com/dbminions/colexec-db): Vectorized `Execution Engine`, Push based execution model
+
+
+#### Misc
 - [geo-spark-lite](https://github.com/dbminions/spatial-spark-rdd): `Spark RDD`, `Apache Sedona`, `Spatial Indexing`
 
 </details>
