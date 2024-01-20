@@ -42,7 +42,7 @@
 
 </details>
 
-## 🌱 Lite Systems
+## 🌱 Lite Database
 
 > “What I cannot create, I do not understand” - Richard Feynman
 
@@ -63,7 +63,7 @@
 
 </details>
 
-## 🌴 Real-world Database Systems
+## 🌴 Mature Database
 > “You don't have to see the whole staircase, just take the first step.”  - Dr. Martin Luther King, Jr.
 
 <details>
