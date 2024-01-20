@@ -57,6 +57,11 @@
 - [risingwave-lite](https://github.com/risinglightdb/risinglight): Streaming database
 - [TinySQL](https://github.com/dbminions/tinysql): TiDB
 - [TinyKV](https://github.com/talent-plan/tinykv): TiKV
+- [RoseDB](https://github.com/dbminions/rosedb): Bitcask
+- [LotusDB](https://github.com/dbminions/lotusdb): LSM
+- [LotusSearch](https://github.com/dbminions/lotusearch): Search
+- [Wal](https://github.com/dbminions/wal): WAL
+- [DiskHash](https://github.com/dbminions/diskhash): HashMap, WAL
 
 #### Small Database [Read]
 - [HaloDB](https://github.com/dbminions/HaloDB): InMemory, KV, `Log Structure`, Bitcask
