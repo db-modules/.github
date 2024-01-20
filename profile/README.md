@@ -52,6 +52,12 @@
 #### Database Shrunk
 - [matrixorigin-lite](https://github.com/dbminions/colexec-db): Vectorized `Execution Engine`, Push based execution model
 
+#### Lite Database [TODO]
+- [cbo](https://github.com/dbminions/optd): Cost based optimizer
+- [risingwave-lite](https://github.com/risinglightdb/risinglight): Streaming database
+- [TinySQL](https://github.com/dbminions/tinysql): TiDB
+- [TinyKV](https://github.com/talent-plan/tinykv): TiKV
+
 #### Small Database [Read]
 - [HaloDB](https://github.com/dbminions/HaloDB): InMemory, KV, `Log Structure`, Bitcask
 - [OHC](https://github.com/dbminions/ohc): Cache, `OffHeap`, GC, Big Cache
