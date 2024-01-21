@@ -49,7 +49,7 @@
 <details>
 <summary>Read More</summary>
 
-#### My Educational Database
+#### Database Shrunk [By me]
 - [matrixorigin-lite](https://github.com/dborchard/colexec-db): Vectorized `Execution Engine`, Push based execution model
 
 #### Small Database [Read]
