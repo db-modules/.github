@@ -52,7 +52,14 @@
 #### Database Shrunk [By me]
 - [matrixorigin-lite](https://github.com/dborchard/colexec-db): Vectorized `Execution Engine`, Push based execution model
 
-#### Small Database [Read]
+#### Planning to Shrink
+- [Prometheus](https://github.com/dborchard/prometheus): Go, PromQL, TSDB
+- [M3DB](https://github.com/m3db/m3): Go
+- [RadonDB](https://github.com/radondb/radon?tab=readme-ov-file): Go
+- [LinDB](https://github.com/lindb/lindb): Go
+- [CockroachDB](https://github.com/cockroachdb/cockroach): Go, RBO, CBO, exec engine
+
+#### Small Codebase Database [Read]
 - [HaloDB](https://github.com/dborchard/HaloDB): InMemory, KV, `Log Structure`, Bitcask
 - [OHC](https://github.com/dborchard/ohc): Cache, `OffHeap`, GC, Big Cache
 - [LevelDB](https://github.com/dborchard/leveldb): Embedded `LSM` Tree
@@ -65,7 +72,7 @@
 - [TinyKV](https://github.com/talent-plan/tinykv): TiKV
 - [BusTub](https://github.com/cmu-db/bustub): CMU
 
-#### Small Database [TODO]
+#### Hobby Database [TODO]
 - [RoseDB](https://github.com/dborchard/rosedb): Bitcask
 - [LotusDB](https://github.com/dborchard/lotusdb): LSM
 - [LotusSearch](https://github.com/dborchard/lotusearch): Search
@@ -82,11 +89,9 @@
 
 <details>
 <summary>Read More</summary>
-  
-#### Mature Databases [TODO]
+
+#### Mature Database not written in Go [TODO]
 - [Datafusion](https://github.com/apache/arrow-datafusion): Rust, query engine
-- [CockroachDB](https://github.com/cockroachdb/cockroach): Go, RBO, CBO, exec engine
-- [Prometheus](https://github.com/dborchard/prometheus): Go, PromQL, TSDB
 - [Presto](https://github.com/prestodb/presto): Java, RBO, CBO
 - [DuckDB](https://github.com/duckdb/duckdb): C++
 
