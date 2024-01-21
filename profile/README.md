@@ -1,4 +1,4 @@
-## ☘️ Building Blocks
+## 🌱 The Foundation
 > “What I cannot create, I do not understand” - Richard Feynman
 
 <details>
@@ -42,7 +42,7 @@
 
 </details>
 
-## 🌱 Database Plant
+## 🌿 The Plant
 
 > “A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over with a working simple system.” - John Gall
 
@@ -74,7 +74,7 @@
 
 </details>
 
-## 🌳 Database Tree
+## 🌳 The Tree
 > “You don't have to see the whole staircase, just take the first step.”  - Dr. Martin Luther King, Jr.
 
 <details>
@@ -91,7 +91,7 @@
 
 </details>
 
-## 🥕 Roots should be strong
+## 🥕 The Root
 > "It is not that I'm so smart. But I stay with the questions much longer." - Albert Einstein
 
 <details>
@@ -116,7 +116,7 @@
 
 </details>
 
-## 👨‍🌾 My attempts to teach
+## 👨‍🌾 Cultivating Knowledge
 > "If you can't explain it simply, you don't understand it well enough." - Albert Einstein
 
 <details>
@@ -135,7 +135,7 @@
 </details>
 
 
-## 🥭 The Final Fruit
+## 🥭 The Fruit
 > "It always seems impossible until it's done." - Nelson Mandela
 
 <details>
