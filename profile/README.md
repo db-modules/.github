@@ -5,14 +5,14 @@
 <summary>Read More</summary>
 
 #### Core Database Components
-- [tiny-yacc-parser](https://github.com/dbminions/tiny-yacc-sql-parser): YACC, SQL `Parser`
-- [tiny-sql-rewriter](https://github.com/dbminions/tiny-sql-rewriter): SQL `rewriter`, analyser
-- [tiny-binder](https://github.com/dbminions/tiny_binder): `Binder`, Catalog, Type Coercion, Function Overloading
-- [tiny-dataframe](https://github.com/dbminions/tiny_dataframe): `RBO`, `Execution Engine`, `Push-based Execution`, Runtime, Visitor, Parquet, Arrow
-- [tiny-rule-based-optimizer](https://github.com/dbminions/tiny-planner): Parser, `Binder`, Catalog, RBO, `Execution Engine`, `Push Based Execution`
-- [tiny-ssi-txn](https://github.com/dbminions/tiny-txn): Snapshot Isolation Level, Serializable `Transactions`
-- [lsm tree](https://github.com/dbminions/lsm-tree): `Storage Engine`, Memtable, WAL
-- [tiny-java-db](https://github.com/dbminions/tiny-db): `Volcano Model`, Query Optimizer, `Binder`, `Secondary Index`
+- [tiny-yacc-parser](https://github.com/dborchard/tiny-yacc-sql-parser): YACC, SQL `Parser`
+- [tiny-sql-rewriter](https://github.com/dborchard/tiny-sql-rewriter): SQL `rewriter`, analyser
+- [tiny-binder](https://github.com/dborchard/tiny_binder): `Binder`, Catalog, Type Coercion, Function Overloading
+- [tiny-dataframe](https://github.com/dborchard/tiny_dataframe): `RBO`, `Execution Engine`, `Push-based Execution`, Runtime, Visitor, Parquet, Arrow
+- [tiny-rule-based-optimizer](https://github.com/dborchard/tiny-planner): Parser, `Binder`, Catalog, RBO, `Execution Engine`, `Push Based Execution`
+- [tiny-ssi-txn](https://github.com/dborchard/tiny-txn): Snapshot Isolation Level, Serializable `Transactions`
+- [lsm tree](https://github.com/dborchard/lsm-tree): `Storage Engine`, Memtable, WAL
+- [tiny-java-db](https://github.com/dborchard/tiny-db): `Volcano Model`, Query Optimizer, `Binder`, `Secondary Index`
 
 ```markdown
 ┌───────┐  ┌───────┐  ┌───────┐
@@ -29,16 +29,16 @@
 ```
 
 #### Misc Database Components
-- [embedded server](https://github.com/dbminions/tiny-embedded-server): `Sockets`
-- [workerpool](https://github.com/dbminions/workerpool): `job queue`, `worker pool`
-- [memorypool](https://github.com/dbminions/tiny_mpool): `memory management`, `gc lang`
-- [lotsaa](https://github.com/dbminions/lotsaa): `benchmark`, `concurrent access`
-- [tiny-compiler](https://github.com/dbminions/tiny-compiler): Covers examples for `AST`, ANTLR, and `Visitor` Pattern
-- [tiny-dependency-injection](https://github.com/dbminions/tiny-di-framework): `Dependency Injection` Framework
+- [embedded server](https://github.com/dborchard/tiny-embedded-server): `Sockets`
+- [workerpool](https://github.com/dborchard/workerpool): `job queue`, `worker pool`
+- [memorypool](https://github.com/dborchard/tiny_mpool): `memory management`, `gc lang`
+- [lotsaa](https://github.com/dborchard/lotsaa): `benchmark`, `concurrent access`
+- [tiny-compiler](https://github.com/dborchard/tiny-compiler): Covers examples for `AST`, ANTLR, and `Visitor` Pattern
+- [tiny-dependency-injection](https://github.com/dborchard/tiny-di-framework): `Dependency Injection` Framework
 
 #### Misc Distributed Systems
-- [leader election](https://github.com/dbminions/distributed_leader_election): `Layered BFS`, `Flood Max`
-- [network topology optimizer](https://github.com/dbminions/network_topology_optimizer): `Heuristics`, `Topology`
+- [leader election](https://github.com/dborchard/distributed_leader_election): `Layered BFS`, `Flood Max`
+- [network topology optimizer](https://github.com/dborchard/network_topology_optimizer): `Heuristics`, `Topology`
 
 </details>
 
@@ -50,29 +50,29 @@
 <summary>Read More</summary>
 
 #### Database Shrunk
-- [matrixorigin-lite](https://github.com/dbminions/colexec-db): Vectorized `Execution Engine`, Push based execution model
+- [matrixorigin-lite](https://github.com/dborchard/colexec-db): Vectorized `Execution Engine`, Push based execution model
 
 #### Small Database [Read]
-- [HaloDB](https://github.com/dbminions/HaloDB): InMemory, KV, `Log Structure`, Bitcask
-- [OHC](https://github.com/dbminions/ohc): Cache, `OffHeap`, GC, Big Cache
-- [LevelDB](https://github.com/dbminions/leveldb): Embedded `LSM` Tree
-- [StormDB](https://github.com/dbminions/stormdb): Embedded DB similar to HaloDB
+- [HaloDB](https://github.com/dborchard/HaloDB): InMemory, KV, `Log Structure`, Bitcask
+- [OHC](https://github.com/dborchard/ohc): Cache, `OffHeap`, GC, Big Cache
+- [LevelDB](https://github.com/dborchard/leveldb): Embedded `LSM` Tree
+- [StormDB](https://github.com/dborchard/stormdb): Embedded DB similar to HaloDB
 
 #### Lite Database [TODO]
-- [cbo](https://github.com/dbminions/optd): Cost based optimizer
+- [cbo](https://github.com/dborchard/optd): Cost based optimizer
 - [risingwave-lite](https://github.com/risinglightdb/risinglight): Streaming database
-- [TinySQL](https://github.com/dbminions/tinysql): TiDB
+- [TinySQL](https://github.com/dborchard/tinysql): TiDB
 - [TinyKV](https://github.com/talent-plan/tinykv): TiKV
 
 #### Small Database [TODO]
-- [RoseDB](https://github.com/dbminions/rosedb): Bitcask
-- [LotusDB](https://github.com/dbminions/lotusdb): LSM
-- [LotusSearch](https://github.com/dbminions/lotusearch): Search
-- [Wal](https://github.com/dbminions/wal): WAL
-- [DiskHash](https://github.com/dbminions/diskhash): HashMap, WAL
+- [RoseDB](https://github.com/dborchard/rosedb): Bitcask
+- [LotusDB](https://github.com/dborchard/lotusdb): LSM
+- [LotusSearch](https://github.com/dborchard/lotusearch): Search
+- [Wal](https://github.com/dborchard/wal): WAL
+- [DiskHash](https://github.com/dborchard/diskhash): HashMap, WAL
 
 #### Misc Shrunk
-- [geo-spark-lite](https://github.com/dbminions/spatial-spark-rdd): `Spark RDD`, `Apache Sedona`, `Spatial Indexing`
+- [geo-spark-lite](https://github.com/dborchard/spatial-spark-rdd): `Spark RDD`, `Apache Sedona`, `Spatial Indexing`
 
 </details>
 
@@ -85,11 +85,11 @@
 #### Mature Databases [TODO]
 - [Datafusion](https://github.com/apache/arrow-datafusion): tiny neat query engine
 - [CockroachDB](https://github.com/cockroachdb/cockroach): well documented, co-exec, has logical/physical optimizer, exec engine
-- [Prometheus](https://github.com/dbminions/prometheus): PromQL, TSDB
+- [Prometheus](https://github.com/dborchard/prometheus): PromQL, TSDB
 - [Presto](https://github.com/prestodb/presto): RBO, CBO
 
 #### Misc [Read]
-- [Go-YCSB](https://github.com/dbminions/go-ycsb): KV Benchmark, `YCSB`
+- [Go-YCSB](https://github.com/dborchard/go-ycsb): KV Benchmark, `YCSB`
 
 </details>
 
@@ -110,7 +110,7 @@
 - [Algorithms and Data Structures for Massive Datasets](https://a.co/d/j4aYee9) - BF, `Count-Min` Sketch, HyperLogLog, Reservoir `Sampling`.
 
 #### Database Papers
-[Read more](https://github.com/dbminions/awesome-db-papers)
+[Read more](https://github.com/dborchard/awesome-db-papers)
 
 </details>
 
