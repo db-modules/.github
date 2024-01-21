@@ -52,22 +52,24 @@
 #### Database Shrunk
 - [matrixorigin-lite](https://github.com/dbminions/colexec-db): Vectorized `Execution Engine`, Push based execution model
 
-#### Lite Database [TODO]
-- [cbo](https://github.com/dbminions/optd): Cost based optimizer
-- [risingwave-lite](https://github.com/risinglightdb/risinglight): Streaming database
-- [TinySQL](https://github.com/dbminions/tinysql): TiDB
-- [TinyKV](https://github.com/talent-plan/tinykv): TiKV
-- [RoseDB](https://github.com/dbminions/rosedb): Bitcask
-- [LotusDB](https://github.com/dbminions/lotusdb): LSM
-- [LotusSearch](https://github.com/dbminions/lotusearch): Search
-- [Wal](https://github.com/dbminions/wal): WAL
-- [DiskHash](https://github.com/dbminions/diskhash): HashMap, WAL
-
 #### Small Database [Read]
 - [HaloDB](https://github.com/dbminions/HaloDB): InMemory, KV, `Log Structure`, Bitcask
 - [OHC](https://github.com/dbminions/ohc): Cache, `OffHeap`, GC, Big Cache
 - [LevelDB](https://github.com/dbminions/leveldb): Embedded `LSM` Tree
 - [StormDB](https://github.com/dbminions/stormdb): Embedded DB similar to HaloDB
+
+#### Lite Database [TODO]
+- [cbo](https://github.com/dbminions/optd): Cost based optimizer
+- [risingwave-lite](https://github.com/risinglightdb/risinglight): Streaming database
+- [TinySQL](https://github.com/dbminions/tinysql): TiDB
+- [TinyKV](https://github.com/talent-plan/tinykv): TiKV
+
+#### Small Database [TODO]
+- [RoseDB](https://github.com/dbminions/rosedb): Bitcask
+- [LotusDB](https://github.com/dbminions/lotusdb): LSM
+- [LotusSearch](https://github.com/dbminions/lotusearch): Search
+- [Wal](https://github.com/dbminions/wal): WAL
+- [DiskHash](https://github.com/dbminions/diskhash): HashMap, WAL
 
 #### Misc Shrunk
 - [geo-spark-lite](https://github.com/dbminions/spatial-spark-rdd): `Spark RDD`, `Apache Sedona`, `Spatial Indexing`
@@ -80,8 +82,8 @@
 <details>
 <summary>Read More</summary>
   
-#### Production Databases [TODO]
-- [datafusion](https://github.com/apache/arrow-datafusion): tiny neat query engine
+#### Mature Databases [TODO]
+- [Datafusion](https://github.com/apache/arrow-datafusion): tiny neat query engine
 - [CockroachDB](https://github.com/cockroachdb/cockroach): well documented, co-exec, has logical/physical optimizer, exec engine
 - [Prometheus](https://github.com/dbminions/prometheus): PromQL, TSDB
 - [Presto](https://github.com/prestodb/presto): RBO, CBO
@@ -91,7 +93,7 @@
 
 </details>
 
-## 🥕 The Root
+## 💧 The Resources
 > "It is not that I'm so smart. But I stay with the questions much longer." - Albert Einstein
 
 <details>
