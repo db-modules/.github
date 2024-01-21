@@ -44,7 +44,7 @@
 
 ## 🌱 Database Plant
 
-> “What I cannot create, I do not understand” - Richard Feynman
+> “A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over with a working simple system.” - John Gall
 
 <details>
 <summary>Read More</summary>
@@ -116,7 +116,7 @@
 
 </details>
 
-## 👨‍🌾 My attemps to teach
+## 👨‍🌾 My attempts to teach
 > "If you can't explain it simply, you don't understand it well enough." - Albert Einstein
 
 <details>
@@ -135,7 +135,7 @@
 </details>
 
 
-## 🥭 The Fruit
+## 🥭 The Final Fruit
 > "It always seems impossible until it's done." - Nelson Mandela
 
 <details>
