@@ -58,11 +58,12 @@
 - [LevelDB](https://github.com/dborchard/leveldb): Embedded `LSM` Tree
 - [StormDB](https://github.com/dborchard/stormdb): Embedded DB similar to HaloDB
 
-#### Lite Database [TODO]
-- [cbo](https://github.com/dborchard/optd): Cost based optimizer
+#### Educational Database [TODO]
 - [risingwave-lite](https://github.com/risinglightdb/risinglight): Streaming database
+- [datafusion-cbo](https://github.com/dborchard/optd): Cost based optimizer
 - [TinySQL](https://github.com/dborchard/tinysql): TiDB
 - [TinyKV](https://github.com/talent-plan/tinykv): TiKV
+- [BusTub](https://github.com/cmu-db/bustub): CMU
 
 #### Small Database [TODO]
 - [RoseDB](https://github.com/dborchard/rosedb): Bitcask
@@ -83,10 +84,11 @@
 <summary>Read More</summary>
   
 #### Mature Databases [TODO]
-- [Datafusion](https://github.com/apache/arrow-datafusion): tiny neat query engine
-- [CockroachDB](https://github.com/cockroachdb/cockroach): well documented, co-exec, has logical/physical optimizer, exec engine
-- [Prometheus](https://github.com/dborchard/prometheus): PromQL, TSDB
-- [Presto](https://github.com/prestodb/presto): RBO, CBO
+- [Datafusion](https://github.com/apache/arrow-datafusion): Rust, query engine
+- [CockroachDB](https://github.com/cockroachdb/cockroach): Go, RBO, CBO, exec engine
+- [Prometheus](https://github.com/dborchard/prometheus): Go, PromQL, TSDB
+- [Presto](https://github.com/prestodb/presto): Java, RBO, CBO
+- [DuckDB](https://github.com/duckdb/duckdb): C++
 
 #### Misc [Read]
 - [Go-YCSB](https://github.com/dborchard/go-ycsb): KV Benchmark, `YCSB`
