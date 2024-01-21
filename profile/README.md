@@ -110,7 +110,7 @@
 - [Algorithms and Data Structures for Massive Datasets](https://a.co/d/j4aYee9) - BF, `Count-Min` Sketch, HyperLogLog, Reservoir `Sampling`.
 
 #### Database Papers
-[Read more](https://github.com/dborchard/awesome-db-papers)
+[My Read Papers](https://github.com/dborchard/awesome-db-papers)
 
 </details>
 
