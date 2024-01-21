@@ -116,7 +116,7 @@
 
 </details>
 
-## 👨‍🌾 Me Planting
+## 👨‍🌾 My attemps to teach
 > "If you can't explain it simply, you don't understand it well enough." - Albert Einstein
 
 <details>
