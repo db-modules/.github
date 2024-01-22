@@ -144,6 +144,7 @@
 > "It always seems impossible until it's done." - Nelson Mandela
 
 <details>
+
 <summary>Read More</summary>
   
 #### Database commits
@@ -152,3 +153,5 @@
 - [Memtable Paper](): Pending
 
 </details>
+
+![](https://komarev.com/ghpvc/?username=dborchard)
