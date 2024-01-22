@@ -101,7 +101,7 @@
 </details>
 
 ## 💧 The Resources
-> "It is not that I'm so smart. But I stay with the questions much longer." - Albert Einstein
+> "You don't understand anything until you learn it more than one way." – Marvin Minsky
 
 <details>
 <summary>Read More</summary>
