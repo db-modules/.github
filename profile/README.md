@@ -111,13 +111,18 @@
 - [Querify Labs Blog](https://www.querifylabs.com/blog) - Good blog on optimizers.
 - [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/) - `Spanner` 2PC etc.
 
-#### Books on DB [Read]
+#### Books on DB Introduction [Read]
 - [Database Design and Implementation](https://a.co/d/9cJnBev) -  Great for understanding embedded Java databases like Apache `Derby`
 - [How Query Engine Works: An Introductory Guide](https://a.co/d/0tnFBHx) - Great for understanding Query Engine like Arrow `Datafusion`
 - [Algorithms and Data Structures for Massive Datasets](https://a.co/d/j4aYee9) - BF, `Count-Min` Sketch, HyperLogLog, Reservoir `Sampling`.
 
-#### Database Papers
-- [My Read Papers](https://github.com/dborchard/awesome-db-papers)
+#### Books on DB Introduction [TODO]
+- [Build Your Own Database From Scratch](https://build-your-own.org/database/)
+- [Database Internals](https://www.databass.dev/)
+- [Designing Data-Intensive Applications](https://a.co/d/hwmSC1o)
+
+#### Database Papers [Read]
+- [Awesome DB Papers](https://github.com/dborchard/awesome-db-papers)
 
 </details>
 
