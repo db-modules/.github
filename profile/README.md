@@ -156,6 +156,7 @@
 - [MaxtrixOrigin](https://github.com/matrixorigin/matrixone/commits?author=arjunsk)
 - [Vector Index Paper](): Pending
 - [Memtable Paper](): Pending
+- [CometKV](https://github.com/dborchard/cometkv) : WIP, Comparing different memtables
 
 </details>
 
