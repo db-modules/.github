@@ -51,6 +51,7 @@
 
 #### Database Shrunk [By me]
 - [matrixorigin-lite](https://github.com/dborchard/colexec-db): Vectorized `Execution Engine`, Push based execution model
+- [prometheus-lite](https://github.com/dborchard/prometheus_lite): WIP
 
 #### Planning to Shrink
 - [Prometheus](https://github.com/dborchard/prometheus): Go, PromQL, TSDB
