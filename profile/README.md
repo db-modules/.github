@@ -85,7 +85,7 @@
 </details>
 
 ## 🌳 The Tree
-> “You don't have to see the whole staircase, just take the first step.”  - Dr. Martin Luther King, Jr.
+> "The best time to plant a tree was 20 years ago. The second best time is now." - Chinese Proverb
 
 <details>
 <summary>Read More</summary>
