@@ -52,7 +52,7 @@
 #### Database Shrunk [By me]
 - [matrixorigin-lite](https://github.com/dborchard/colexec-db): Vectorized `Execution Engine`, Push based execution model
 - [prometheus-lite](https://github.com/dborchard/prometheus_lite): Parser, PromQL, `TSDB`
-- [crdb-lite](): RBO, CBO, exec engine, type coercion
+- [crdb-lite](https://github.com/dborchard/crdb_lite): RBO, CBO, exec engine, type coercion
 
 #### Planning to Shrink
 - [M3DB](https://github.com/m3db/m3): Go
