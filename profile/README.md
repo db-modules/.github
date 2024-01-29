@@ -59,12 +59,6 @@
 - [LinDB](https://github.com/lindb/lindb): Go
 - [CockroachDB](https://github.com/cockroachdb/cockroach): Go, RBO, CBO, exec engine
 
-#### Small Codebase Database [Read]
-- [HaloDB](https://github.com/dborchard/HaloDB): InMemory, KV, `Log Structure`, Bitcask
-- [OHC](https://github.com/dborchard/ohc): Cache, `OffHeap`, GC, Big Cache
-- [LevelDB](https://github.com/dborchard/leveldb): Embedded `LSM` Tree
-- [StormDB](https://github.com/dborchard/stormdb): Embedded DB similar to HaloDB
-
 #### Educational Database [TODO]
 - [risingwave-lite](https://github.com/risinglightdb/risinglight): Streaming database
 - [datafusion-cbo](https://github.com/dborchard/optd): Cost based optimizer
@@ -92,6 +86,12 @@
 
 #### Mature Databases in Go [TODO]
 - [Prometheus](https://github.com/dborchard/prometheus): TSDB, PromQL, Loki
+
+#### Small Codebase Database [Read]
+- [HaloDB](https://github.com/dborchard/HaloDB): InMemory, KV, `Log Structure`, Bitcask
+- [OHC](https://github.com/dborchard/ohc): Cache, `OffHeap`, GC, Big Cache
+- [LevelDB](https://github.com/dborchard/leveldb): Embedded `LSM` Tree
+- [StormDB](https://github.com/dborchard/stormdb): Embedded DB similar to HaloDB
 
 #### Mature Database not written in Go [TODO]
 - [Datafusion](https://github.com/apache/arrow-datafusion): Rust, query engine
