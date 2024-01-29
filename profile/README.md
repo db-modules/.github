@@ -92,6 +92,7 @@
 - [OHC](https://github.com/dborchard/ohc): Cache, `OffHeap`, GC, Big Cache
 - [LevelDB](https://github.com/dborchard/leveldb): Embedded `LSM` Tree
 - [StormDB](https://github.com/dborchard/stormdb): Embedded DB similar to HaloDB
+- [FrostDB](https://github.com/polarsignals/frostdb): `Push Based Exec`, Arrow, Parquet, `RBO`, Parser, `LSM`
 
 #### Mature Database not written in Go [TODO]
 - [Datafusion](https://github.com/apache/arrow-datafusion): Rust, query engine
