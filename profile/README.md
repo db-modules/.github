@@ -84,7 +84,7 @@
 <details>
 <summary>Read More</summary>
 
-#### Mature Databases in Go [TODO]
+#### Mature Databases [Read]
 - [Prometheus](https://github.com/dborchard/prometheus): TSDB, PromQL, Loki
 
 #### Small Codebase Database [Read]
