@@ -160,11 +160,13 @@
 
 <summary>Read More</summary>
   
-#### Database commits
+#### Database Commits
 - [MaxtrixOrigin](https://github.com/matrixorigin/matrixone/commits?author=arjunsk)
+- [CometKV](https://github.com/dborchard/cometkv) : WIP, Comparing different memtables
+
+#### Published Materials
 - [Vector Index Paper](): Pending
 - [Memtable Paper](): Pending
-- [CometKV](https://github.com/dborchard/cometkv) : WIP, Comparing different memtables
 
 </details>
 
