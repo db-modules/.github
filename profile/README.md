@@ -55,6 +55,7 @@
 - [prometheus-lite](https://github.com/dborchard/prometheus_lite): Parser, PromQL, `TSDB`
 - [crdb-lite](https://github.com/dborchard/tiny_crdb): RBO, CBO, exec engine, type coercion
 - [tidb-lite](): RBO, CBO, exec engine, parser
+- [junodb-lite](https://github.com/dborchard/junodb_lite): KV Server, Distributed System, Etcd
 
 #### Planning to Shrink
 - [M3DB](https://github.com/m3db/m3): Go
