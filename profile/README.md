@@ -40,10 +40,6 @@
 - [tiny-compiler](https://github.com/dborchard/tiny-compiler): Covers examples for `AST`, ANTLR, and `Visitor` Pattern
 - [tiny-dependency-injection](https://github.com/dborchard/tiny-di-framework): `Dependency Injection` Framework
 
-#### Misc Distributed Systems
-- [leader election](https://github.com/dborchard/distributed_leader_election): `Layered BFS`, `Flood Max`
-- [network topology optimizer](https://github.com/dborchard/network_topology_optimizer): `Heuristics`, `Topology`
-
 </details>
 
 ## 🌿 The Plant
