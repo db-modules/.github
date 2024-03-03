@@ -29,9 +29,6 @@
                       └───────┘
 ```
 
-#### Core Distributed Systems
-- [consistent-hashing](): KV Store, Etcd, Add/Del Node
-
 #### Misc Database Components
 - [embedded server](https://github.com/dborchard/tiny-embedded-server): `Sockets`
 - [workerpool](https://github.com/dborchard/workerpool): `job queue`, `worker pool`
