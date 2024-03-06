@@ -30,7 +30,6 @@
 ```
 
 #### Misc Database Components
-- [embedded server](https://github.com/dborchard/tiny-embedded-server): `Sockets`
 - [workerpool](https://github.com/dborchard/workerpool): `job queue`, `worker pool`
 - [memorypool](https://github.com/dborchard/tiny_mpool): `memory management`, `gc lang`
 - [lotsaa](https://github.com/dborchard/lotsaa): `benchmark`, `concurrent access`
@@ -51,7 +50,6 @@
 - [prometheus-lite](https://github.com/dborchard/prometheus_lite): Parser, PromQL, `TSDB`
 - [crdb-lite](https://github.com/dborchard/tiny_crdb): RBO, CBO, exec engine, type coercion
 - [tidb-lite](): RBO, CBO, exec engine, parser
-- [junodb-lite](https://github.com/dborchard/junodb_lite): KV Server, Distributed System, Etcd
 
 #### Planning to Shrink
 - [M3DB](https://github.com/m3db/m3): Go
@@ -71,9 +69,6 @@
 - [LotusSearch](https://github.com/dborchard/lotusearch): Search
 - [Wal](https://github.com/dborchard/wal): WAL
 - [DiskHash](https://github.com/dborchard/diskhash): HashMap, WAL
-
-#### Misc Shrunk
-- [geo-spark-lite](https://github.com/dborchard/spatial-spark-rdd): `Spark RDD`, `Apache Sedona`, `Spatial Indexing`
 
 </details>
 
@@ -116,7 +111,6 @@
 #### Books in Pipeline [Reading]
 - [100 Go Mistakes and How to Avoid Them](https://a.co/d/7EAXgLq) - Great for understanding common mistakes in `go`.
 - [Querify Labs Blog](https://www.querifylabs.com/blog) - Good blog on optimizers.
-- [Patterns of Distributed Systems](https://martinfowler.com/articles/patterns-of-distributed-systems/) - `Spanner` 2PC etc.
 - [Algorithms and Data Structures for Massive Datasets](https://a.co/d/j4aYee9) - BF, `Count-Min` Sketch, HyperLogLog, Reservoir `Sampling`.
 - [Designing Data-Intensive Applications](https://a.co/d/hwmSC1o)
 - [The Art of Multiprocessor Programming](https://a.co/d/2roL996)
@@ -147,7 +141,6 @@
 
 #### Misc
 - [Tiny Compiler](https://medium.com/javarevisited/build-a-tiny-compiler-in-java-662f67a1ce85) - Tiny Compiler written in Java
-- [Using spark for spatial data management](https://medium.com/sys-base/spatial-partitioned-rdd-using-kd-tree-in-spark-102e0b53564b) - Spark RDD, KD Tree
 - [Design Patterns](https://medium.com/sde-base/design-pattern-in-java-bafd91a5d24e) - Design Pattern from GoF.
 
 </details>
@@ -160,7 +153,7 @@
 
 <summary>Read More</summary>
   
-#### Database Commits
+#### Database Work
 - [MaxtrixOrigin](https://github.com/matrixorigin/matrixone/commits?author=arjunsk)
 - [CometKV](https://github.com/dborchard/cometkv) : WIP, Comparing different memtables
 
