@@ -109,11 +109,8 @@
 <summary>Read More</summary>
 
 #### Books in Pipeline [Reading]
-- [100 Go Mistakes and How to Avoid Them](https://a.co/d/7EAXgLq) - Great for understanding common mistakes in `go`.
 - [Querify Labs Blog](https://www.querifylabs.com/blog) - Good blog on optimizers.
-- [Algorithms and Data Structures for Massive Datasets](https://a.co/d/j4aYee9) - BF, `Count-Min` Sketch, HyperLogLog, Reservoir `Sampling`.
 - [Designing Data-Intensive Applications](https://a.co/d/hwmSC1o)
-- [The Art of Multiprocessor Programming](https://a.co/d/2roL996)
 
 #### Books on DB Introduction [Read]
 - [Database Design and Implementation](https://a.co/d/9cJnBev) -  Great for understanding embedded Java databases like Apache `Derby`
