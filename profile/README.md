@@ -49,9 +49,10 @@
 - [matrixorigin-lite](https://github.com/dborchard/colexec-db): Vectorized `Execution Engine`, Push based execution model
 - [prometheus-lite](https://github.com/dborchard/prometheus_lite): Parser, PromQL, `TSDB`
 - [crdb-lite](https://github.com/dborchard/tiny_crdb): RBO, CBO, exec engine, type coercion
-- [tidb-lite](): RBO, CBO, exec engine, parser
+- tidb-lite: RBO, CBO, exec engine, parser
 
 #### Planning to Shrink
+- [PranaDB](https://github.com/cashapp/pranadb): Go
 - [M3DB](https://github.com/m3db/m3): Go
 - [RadonDB](https://github.com/radondb/radon?tab=readme-ov-file): Go
 - [LinDB](https://github.com/lindb/lindb): Go
