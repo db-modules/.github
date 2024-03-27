@@ -45,6 +45,10 @@
 <details>
 <summary>Read More</summary>
 
+#### Core Modules [To be Shrunk]
+- MatrixOrigin Join Modules: Optimizer Runtime Filter, ColExec for SEMI, INNER, LEFT, RIGHT, INDEX, SINGLE joins
+
+
 #### Database Shrunk [By me]
 - [matrixorigin-lite](https://github.com/dborchard/colexec-db): Vectorized `Execution Engine`, Push based execution model
 - [prometheus-lite](https://github.com/dborchard/prometheus_lite): Parser, PromQL, `TSDB`
