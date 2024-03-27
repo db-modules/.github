@@ -45,7 +45,7 @@
 <details>
 <summary>Read More</summary>
 
-#### Core Modules [To be Shrunk]
+#### Core Modules [Being Shrunk]
 - [MatrixOrigin Join Modules](https://github.com/dborchard/mojoin): Optimizer Runtime Filter, ColExec for SEMI, INNER, LEFT, RIGHT, INDEX, SINGLE joins
 
 
