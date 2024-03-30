@@ -10,6 +10,7 @@
 - [tiny-binder](https://github.com/dborchard/tiny_binder): `Binder`, Catalog, Type Coercion, Function Overloading
 - [tiny-dataframe](https://github.com/dborchard/tiny_dataframe): `RBO`, `Execution Engine`, `Push-based Execution`, Runtime, Visitor, Parquet, Arrow
 - [tiny-rule-based-optimizer](https://github.com/dborchard/tiny-planner): Parser, `Binder`, Catalog, RBO, `Execution Engine`, `Push Based Execution`
+- [joins](https://github.com/dborchard/joins_impl): Join using Spark Execution Engine. `Grace Hash Join`, `Sort Merge Join`, `Nested Join`
 - [tiny-ssi-txn](https://github.com/dborchard/tiny-txn): Snapshot Isolation Level, Serializable `Transactions`
 - [lsm tree](https://github.com/dborchard/lsm-tree): `Storage Engine`, Memtable, WAL
 - [col-fs](https://github.com/dborchard/col-lsm): Columnar/Row Format, `File Storage`, S3
