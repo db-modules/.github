@@ -12,6 +12,7 @@
 - [tiny-rule-based-optimizer](https://github.com/dborchard/tiny-planner): Parser, `Binder`, Catalog, RBO, `Execution Engine`, `Push Based Execution`
 - [joins](https://github.com/dborchard/joins_impl): Join using Spark Execution Engine. `Grace Hash Join`, `Sort Merge Join`, `Nested Join`
 - [tiny-ssi-txn](https://github.com/dborchard/tiny-txn): Snapshot Isolation Level, Serializable `Transactions`
+- [isolation_levels](https://github.com/dborchard/isolation_levels.git): Isolation Level, SSI and WSI.
 - [lsm tree](https://github.com/dborchard/lsm-tree): `Storage Engine`, Memtable, WAL
 - [col-fs](https://github.com/dborchard/col-lsm): Columnar/Row Format, `File Storage`, S3
 - [tiny-java-db](https://github.com/dborchard/tiny-db): `Volcano Model`, Query Optimizer, `Binder`, `Secondary Index`
