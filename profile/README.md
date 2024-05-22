@@ -142,6 +142,7 @@
 <summary>Read More</summary>
 
 #### Database
+- [WiscKey: Separating Keys from Values in SSD-conscious Storage](https://www.youtube.com/watch?v=TnnA4s0HpEI) - LSM Tree for large values
 - [Copy Ahead Segment Ring](https://utd-ir.tdl.org/server/api/core/bitstreams/bca5d1fb-7b45-403c-b435-4d965d387367/content) - New Memtable Design, Evolution of Database Systems
 - [TinyDB](https://www.youtube.com/playlist?list=PLVd_ZXv73U8jqQHvW_R5oQF8qo8SHv3Re) - Tiny Database written in Java
 
