@@ -50,6 +50,7 @@
 #### Core Modules [Being Shrunk]
 - [MatrixOrigin Join Modules](https://github.com/dborchard/mo_join): Optimizer Runtime Filter, ColExec for SEMI, INNER, LEFT, RIGHT, INDEX, SINGLE joins
 - [MatrixOrigin Txn Module](https://github.com/dborchard/mo_txn): Txn, Insert, Delete, Truncate
+- [CRDB Txn Module](https://github.com/dborchard/crdb_txn): Txn, WSI, SSI
 
 #### Database Shrunk [By me]
 - [matrixorigin-lite](https://github.com/dborchard/colexec-db): Vectorized `Execution Engine`, Push based execution model
