@@ -93,6 +93,7 @@
 - [Prometheus](https://github.com/dborchard/prometheus): TSDB, PromQL, Loki
 - [CockroachDB](https://github.com/cockroachdb/cockroach): Go, RBO, CBO, exec engine
 - [TiDB](https://github.com/pingcap/tidb): RBO, CBO, exec engine, Go/Rust
+- [Hermitage](https://github.com/dborchard/hermitage): Isolation Levels, Tests
 
 
 #### Small Codebase Database [Read]
